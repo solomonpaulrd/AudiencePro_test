@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Your changes here
+Your local README content
 =======
-Incoming changes here
->>>>>>> commit_hash
+GitHub repo README content
+>>>>>>> commit-hash
